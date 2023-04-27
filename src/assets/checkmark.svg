@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Forte-Ecom---Success-" transform="translate(-820.000000, -275.000000)">
+            <g id="Widget" transform="translate(368.000000, 148.000000)">
+                <g id="Group" transform="translate(373.000000, 129.000000)">
+                    <g id="icon" transform="translate(81.000000, 0.000000)">
+                        <circle id="Oval" stroke="#01C610" stroke-width="4" stroke-linecap="round" cx="40" cy="40" r="40"></circle>
+                        <g id="check" transform="translate(18.666667, 18.666667)">
+                            <polygon id="Path" points="0 0 42.6666667 0 42.6666667 42.6666667 0 42.6666667"></polygon>
+                            <path d="M16,28.7466667 L9.83111111,22.5777778 C9.13777778,21.8844444 8.01777778,21.8844444 7.32444444,22.5777778 C6.63111111,23.2711111 6.63111111,24.3911111 7.32444444,25.0844444 L14.7555556,32.5155556 C15.4488889,33.2088889 16.5688889,33.2088889 17.2622222,32.5155556 L36.0711111,13.7066667 C36.7644444,13.0133333 36.7644444,11.8933333 36.0711111,11.2 C35.3777778,10.5066667 34.2577778,10.5066667 33.5644444,11.2 L16,28.7466667 Z" id="🔹-Icon-Color" fill="#01C610" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
